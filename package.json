@@ -1,0 +1,20 @@
+{
+  "name": "pg-pool-connect-nodejs",
+  "version": "1.0.0",
+  "description": "Conexiones Pool de PostgreSQL con Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "PostgreSQL",
+    "conexión",
+    "pool",
+    "Node.js"
+  ],
+  "author": "Miguel Angel Durán Romero",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.12.0"
+  }
+}
